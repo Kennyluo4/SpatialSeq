@@ -1,2 +1,2 @@
 # SpatialSeq
-for Spatial RNAseq ananlysis
+* Scripts and analyisis log (linux) for sugarcane and peanut Spatial RNAseq 
