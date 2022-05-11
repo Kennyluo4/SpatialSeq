@@ -1,5 +1,5 @@
 Slided ID: V10N16-076
-###### 1. Generating FASTQs with spaceranger mkfastq (done by Alberto)
+###### 1. Generating FASTQs with spaceranger mkfastq 
 ##===================================================
 spaceranger mkfastq --id=peanut_mkfastq \
                     --filter-dual-index\
