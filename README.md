@@ -1,2 +1,3 @@
 # SpatialSeq
-* Scripts and analyisis log (linux) for sugarcane and peanut Spatial RNAseq 
+* 
+* This repository is a collection of analysis scripts and log file for sugarcane and peanut Spatial transcriptomics. 
